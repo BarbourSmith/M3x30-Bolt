@@ -2,7 +2,7 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|name|1|$0.00|www.example.com|
-|Total: |1|$0.00| |
+|M3 x 30 Bolt|1|$0.13|https://www.mcmaster.com/92095a187|
+|Total: |1|$0.13| |
 
- 3xCOG MSRP: $0.00
+ 3xCOG MSRP: $0.39
