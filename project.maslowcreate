@@ -15,6 +15,10 @@
             "uniqueID": 691413,
             "ioValues": [
                 {
+                    "name": "geometry",
+                    "ioValue": "atoms/605489/791984Circle"
+                },
+                {
                     "name": "height",
                     "ioValue": -30
                 }
@@ -58,6 +62,10 @@
             "uniqueID": 341844,
             "ioValues": [
                 {
+                    "name": "geometry",
+                    "ioValue": "atoms/605489/646684Circle"
+                },
+                {
                     "name": "height",
                     "ioValue": 1.65
                 }
@@ -82,7 +90,12 @@
             "x": 0.7496339677891655,
             "y": 0.3333333333333333,
             "uniqueID": 389087,
-            "ioValues": [],
+            "ioValues": [
+                {
+                    "name": "geometry",
+                    "ioValue": "atoms/605489/293663Union"
+                }
+            ],
             "selectedColorIndex": "11"
         },
         {
@@ -90,7 +103,13 @@
             "name": "Output",
             "x": 0.9853587115666179,
             "y": 0.5,
-            "ioValues": []
+            "uniqueID": 718875,
+            "ioValues": [
+                {
+                    "name": "number or geometry",
+                    "ioValue": "atoms/605489/389087Color"
+                }
+            ]
         }
     ],
     "allConnectors": [
@@ -133,7 +152,8 @@
             "ap1Name": "geometry",
             "ap2Name": "number or geometry",
             "ap2Primary": false,
-            "ap1ID": 389087
+            "ap1ID": 389087,
+            "ap2ID": 718875
         }
     ],
     "fileTypeVersion": 1,
